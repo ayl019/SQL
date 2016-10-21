@@ -1,1 +1,1 @@
-Basic SQL commands and exercises from tutorials
+SQL commands and exercises from tutorials
