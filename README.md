@@ -6,8 +6,8 @@ Aggregate functions
 Group by clause
 Having clause
 Order by clause
-Boolean operators
 Set operators(Union, Intersect, Except)
+Boolean operators
 Table variables
 Subquery in Select, From, and Where clauses
 Join operators(Inner, natural, left outer, right outer, full outer)
